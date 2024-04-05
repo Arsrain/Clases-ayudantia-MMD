@@ -1,3 +1,6 @@
 > [!IMPORTANT]
-> repo clase 2
-este es el primer readme
+> repo clase 2 de MMD
+
+## repo clase 2 de MMD 📚
+- En este repositorio se está aprendiendo a subir un archivo README.md a un repositorio de github.
+- También veremos introducción a JavaScript
